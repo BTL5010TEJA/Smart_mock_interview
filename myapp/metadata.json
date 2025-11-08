@@ -1,0 +1,8 @@
+{
+  "name": "AI Mock Interview",
+  "description": "A voice-based mock interview application that provides AI-powered feedback and evaluation on your answers.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
